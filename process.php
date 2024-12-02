@@ -30,7 +30,7 @@ if (strtolower($message) === 'who are you?' || strtolower($message) === 'what is
     $botResponse = 'My name is Muazam Ali. I am an AI assistant. Tell me how can I help you.';
 } else {
     // Initialize Gemini API client
-    $geminiApiKey = 'AIzaSyBzLwUeTVRe7DHAp8pbGvCs64xg6MIQK1w'; // Replace with your actual Gemini API key
+    $geminiApiKey = 'Your gimini api key'; // Replace with your actual Gemini API key
     $client = new Client($geminiApiKey);
 
     try {
