@@ -1,4 +1,5 @@
-PHP Login and Registration System
+**PHP Login and Registration System**
+
 This is a simple PHP login and registration system with basic user management features.
 
 **Features**
