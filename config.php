@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; // or your host
 $db = 'chatbot';
-$user = 'root';
-$pass = 'Mauzaam@1122';
+$user = 'your db user';
+$pass = 'your db pass';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
