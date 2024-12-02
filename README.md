@@ -41,28 +41,3 @@ Update the database connection details in config.php.
 
 Use your preferred web server to host the application.
 
-**Usage**
-
-
-**Register a new user:**
-
-Visit the registration page.
-
-Fill out the registration form and submit it.
-
-**Login:**
-
-Visit the login page.
-
-Enter your username and password and submit the form.
-
-**Access user profile:**
-
-After logging in, you can access your profile page to view and edit your information.
-
-**Forgot Password:**
-
-If you forget your password, visit the forgot password page.
-
-Enter your email address and follow the instructions to reset your password.
-
